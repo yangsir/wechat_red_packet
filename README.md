@@ -11,8 +11,10 @@
 PHP
 
 ## Supporting the project
-![wexin](http://www.webyang.net/Public/images/zfbqrcode.png)
-![wexin](http://www.webyang.net/Public/images/wxzf.jpg)
+> alipay
+![alipay](http://www.webyang.net/Public/images/zfbqrcode.png)
+> wechat
+![wechat](http://www.webyang.net/Public/images/wxzf.jpg)
 
 ## Author
 * AndyYang
