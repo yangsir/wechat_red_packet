@@ -2,18 +2,18 @@
 微信红包源码（wechat red packet codes)
 
 
-##Description
+## Description
 * action：控制器
 * lib   ：通用类
 * index.php ：入口文件
 
-##Language
+## Language
 PHP
 
-##Supporting the project
+## Supporting the project
 ![wexin](http://www.webyang.net/Public/images/zfbqrcode.png)
 ![wexin](http://www.webyang.net/Public/images/wxzf.jpg)
 
-##Author
+## Author
 * AndyYang
 * Blog：[webyang.net](http://www.webyang.net)
